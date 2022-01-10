@@ -23,7 +23,7 @@ Install them via `pip install pynput` and `pip install time`.
 
 **Make sure you have your cursor in a active text box**
 
----------
+----
 
 **Python**
 1. Download the Pyton file [here](https://placeholder.com)
