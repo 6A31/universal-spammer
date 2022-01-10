@@ -1,12 +1,12 @@
 # universal-spammer
 
 ## Download
-You can download the **windows executable** here: (Spammer.exe)[https://placeholder.com]
+You can download the **windows executable** here: [Spammer.exe](https://placeholder.com)
 
-The python source code is found here (Main.py)[https://placeholder.com]
+The python source code is found here [Main.py](https://placeholder.com)
 
 ## Requirements
-The windows (executable)[https://placeholder.com] has no requirements. It can be used right after download.
+The windows [executable](https://placeholder.com) has no requirements. It can be used right after download.
 
 If you are using the Python file, make sure to have the following modules installed: **time**, **pynput**.
 
@@ -16,7 +16,7 @@ Install them via `pip install pynput` and `pip install time`.
 
 **Windows EXE:**
 --------
-1. Download the EXE file (here)[https://placeholder.com]
+1. Download the EXE file [here](https://placeholder.com)
 
 2. Run the file and fill in the values you would like to use. (**There will be a prompt asking you**)
 
@@ -26,9 +26,9 @@ Install them via `pip install pynput` and `pip install time`.
 
 **Python**
 ---------
-1. Download the Pyton file (here)[https://placeholder.com]
+1. Download the Pyton file [here](https://placeholder.com)
 
-2. Make sure you have installed the (requirements)[https://placeholder.com]
+2. Make sure you have installed the [requirements](https://placeholder.com)
 
 3. Run the file with `python Main.py` 
 
