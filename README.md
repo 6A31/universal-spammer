@@ -15,7 +15,6 @@ Install them via `pip install pynput` and `pip install time`.
 ## How-To
 
 **Windows EXE:**
---------
 1. Download the EXE file [here](https://placeholder.com)
 
 2. Run the file and fill in the values you would like to use. (**There will be a prompt asking you**)
@@ -24,8 +23,9 @@ Install them via `pip install pynput` and `pip install time`.
 
 **Make sure you have your cursor in a active text box**
 
-**Python**
 ---------
+
+**Python**
 1. Download the Pyton file [here](https://placeholder.com)
 
 2. Make sure you have installed the [requirements](https://placeholder.com)
