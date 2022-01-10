@@ -10,7 +10,7 @@ Please be aware that setting the Delay between messages too low can cause your p
 
 
 des1 = int(input("How long should the script wait before starting to spam? >>> "))
-des2 = int(input("How manny messages should get send? >>> "))
+des2 = int(input("How many messages should get send? >>> "))
 des3 = str(input("Message: >>> "))
 des4 = float(input("Delay between messages: "))
 
