@@ -39,3 +39,6 @@ Install them via `pip install pynput` and `pip install time`.
 5. Click into a text field. The script will automatic type your message and press enter. 
 
 **Make sure you have your cursor in a active text box**
+
+## Support
+Join my [Discord](https://discord.gg/kjsdxkbtjw) or open a Github issue.
